@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.login h2 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.login-form {
+  width: 300px;
+  margin: auto;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.ant-layout-content {
+  padding-left: 200px;
+}
